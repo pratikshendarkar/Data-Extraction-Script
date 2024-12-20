@@ -86,7 +86,7 @@ if experience is None:
                 experience_date = "None"
         else:
             experience = None
-    except Exception, e:
+    except Exception,e:
         print e
 new_experience_date =""
 if len(experience_date) % 2 == 0:
