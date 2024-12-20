@@ -84,7 +84,7 @@ if experience is None:
                 experience_date = exp_date
             else:
                 experience_date = "None"
-        else:
+        else :
             experience = None
     except Exception,e:
         print e
