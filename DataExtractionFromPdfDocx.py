@@ -70,7 +70,7 @@ try:
         else:
             experience_date = "None"
     else:
-        experience = None
+        experience= None
 except Exception, e:
     print e
 
